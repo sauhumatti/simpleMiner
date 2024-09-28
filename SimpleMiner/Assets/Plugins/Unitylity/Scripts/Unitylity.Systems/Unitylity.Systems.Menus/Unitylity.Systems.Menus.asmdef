@@ -1,0 +1,18 @@
+{
+    "name": "Unitylity.Systems.Menus",
+    "rootNamespace": "Unitylity.Systems",
+    "references": [
+        "GUID:a865139009ca33c4aac0edf33b3ccb22"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "!UNITYLITY_SYSTEMS_MENUS_DISABLED"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
